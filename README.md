@@ -16,11 +16,6 @@ In that environment:
   5) Then you will see a prompted localhost page. It means it is working properly.
 
 
-**From this point, I will explain how to set up your cloud app in Heroku.**
-
-
-
-
 FILES MUST HAVE
 ===============
 **1)requirements.txt**
@@ -42,4 +37,17 @@ FILES MUST HAVE
   
 **5)sp500-app.py**
   - This is your app file that you write the code.
+
+
+HEROKU
+======
+**From this point, I will explain how to set up your cloud app in Heroku.**
+  - Go to HEROKU website
+  - Sign up and sign in
+  - Click on "Create new app"
+  - Write a unique name for your app
+  - Choose your server location (options: USA or Europe)
+  - Come to "Deployment Model" and choose "GITHUB".
+  - Write your repo name then click "connect"
+  - Come to "Manual Deploy" and click on "Deoply Branch"
   
