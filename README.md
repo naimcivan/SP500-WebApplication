@@ -1,6 +1,6 @@
 # SP500-WebApplication
 
-FIRST OF ALL, This is the link for my app: https://sp500-web-app.herokuapp.com/
+FIRST OF ALL, This is the link for the app: https://sp500-web-app.herokuapp.com/
 
 
 STREAMLIT
