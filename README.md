@@ -2,7 +2,7 @@
 
 FIRST OF ALL, This is the link for my app: https://sp500-web-app.herokuapp.com/
 
-==============
+
 STREAMLIT
 ==============
 -Create your own environment in your local machine in order not to impact the dependencies of libraries.
@@ -15,12 +15,12 @@ In that environment:
   4) streamlit run YOUR_APP.py
   5) Then you will see a prompted localhost page. It means it is working properly.
 
-================
+
 From this point, I will explain how to set up your cloud app in Heroku.
-================
 
 
-===============
+
+
 FILES MUST HAVE
 ===============
 1)requirements.txt
