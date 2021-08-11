@@ -23,23 +23,23 @@ In that environment:
 
 FILES MUST HAVE
 ===============
-1)requirements.txt
-  -This file should include the libraries that you utilized while creating app.
+**1)requirements.txt**
+  - This file should include the libraries that you utilized while creating app.
   - FOR EX: streamlit==0.86.0
   - To learn these libraries' versions: Go to "anaconda prompt" then write "conda list". The output will be all libraries. Then find the libraries that you used. Save&Close
 
-2)runtime.txt
-  -To learn the version of python that you developed your app: Go to "anaconda prompt" then write "python --version".
-  -FOR EX: python-3.7.9
-  -Save&close
+**2)runtime.txt**
+  - To learn the version of python that you developed your app: Go to "anaconda prompt" then write "python --version".
+  - FOR EX: python-3.7.9
+  - Save&close
 
-3)setup.sh
+**3)setup.sh**
   -This file adjusts the server and port for your computer.
   
-4)Procfile
+**4)Procfile**
   - This file sets and run the app.
-  -FOR EX: web: sh setup.sh && streamlit run sp500-app.py (WRITE THE NAME OF YOUR APP FILE :)
+  - FOR EX: web: sh setup.sh && streamlit run sp500-app.py (WRITE THE NAME OF YOUR APP FILE :)
   
-5)sp500-app.py
+**5)sp500-app.py**
   - This is your app file that you write the code.
   
