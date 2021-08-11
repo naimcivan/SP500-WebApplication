@@ -34,7 +34,7 @@ FILES MUST HAVE
   - Save&close
 
 **3)setup.sh**
-  -This file adjusts the server and port for your computer.
+  - This file adjusts the server and port for your computer.
   
 **4)Procfile**
   - This file sets and run the app.
