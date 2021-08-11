@@ -16,7 +16,7 @@ In that environment:
   5) Then you will see a prompted localhost page. It means it is working properly.
 
 
-From this point, I will explain how to set up your cloud app in Heroku.
+**From this point, I will explain how to set up your cloud app in Heroku.
 
 
 
@@ -31,7 +31,7 @@ FILES MUST HAVE
 2)runtime.txt
   -To learn the version of python that you developed your app: Go to "anaconda prompt" then write "python --version".
   -FOR EX: python-3.7.9
-  -Save&Exit
+  -Save&close
 
 3)setup.sh
   -This file adjusts the server and port for your computer.
