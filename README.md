@@ -16,7 +16,7 @@ In that environment:
   5) Then you will see a prompted localhost page. It means it is working properly.
 
 
-**From this point, I will explain how to set up your cloud app in Heroku.
+**From this point, I will explain how to set up your cloud app in Heroku.**
 
 
 
